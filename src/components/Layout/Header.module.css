@@ -1,0 +1,17 @@
+/* STYLE NOTES
+font: playful and cold. 
+banner: dep on how it renders, maybe use clippath
+colors: choose from color picker once banner is rendered. see cooolors
+*/
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.header h1,
+.header p {
+  font-family: "Delius Unicase", "Montserrat", sans-serif;
+}
